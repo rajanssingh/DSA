@@ -1,4 +1,4 @@
-package binary_search;
+package Leetcode.binary_search;
 
 public class _03_No_rotation_sorted_array {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package binary_search;
+package Leetcode.binary_search;
 
 public class _04_smallest_rotated_sorted_array {
 

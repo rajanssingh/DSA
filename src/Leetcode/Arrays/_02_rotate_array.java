@@ -1,4 +1,4 @@
-package Arrays;
+package Leetcode.Arrays;
 
 public class _02_rotate_array {
     public static void main(String[] args) {

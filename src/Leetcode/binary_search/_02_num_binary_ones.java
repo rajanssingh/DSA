@@ -1,4 +1,4 @@
-package binary_search;
+package Leetcode.binary_search;
 
 public class _02_num_binary_ones {
     public static void main(String[] args) {

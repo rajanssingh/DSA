@@ -1,4 +1,4 @@
-package Arrays;
+package Leetcode.Arrays;
 
 public class _01_Missing_Number {
     public static void main(String[] args) {

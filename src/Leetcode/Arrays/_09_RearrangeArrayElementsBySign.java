@@ -1,4 +1,4 @@
-package Arrays;
+package Leetcode.Arrays;
 
 public class _09_RearrangeArrayElementsBySign {
 

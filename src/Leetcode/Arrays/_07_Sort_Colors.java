@@ -1,6 +1,4 @@
-package Arrays;
-
-import java.util.Arrays;
+package Leetcode.Arrays;
 
 public class _07_Sort_Colors {
     public static void main(String[] args) {
