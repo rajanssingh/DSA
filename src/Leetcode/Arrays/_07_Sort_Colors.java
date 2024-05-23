@@ -88,4 +88,35 @@ public class _07_Sort_Colors {
             System.out.print(i + " ");
         }
     }
+
+    public static void sortColorsUsingDNF(int[] nums){
+        int low = 0, mid = 0;
+        int n = nums.length;
+        int high = n-1;
+
+        while(mid <= high){
+            switch (nums[mid]){
+                case 0: {
+                    // swap ele at low and mid
+                    int temp = nums[low];
+                    nums[low] = nums[mid];
+                    nums[mid] = temp;
+                    low++;mid++;
+                    break;
+                }
+                case 1: {
+                    mid++;
+                    break;
+                }
+                case 2: {
+                    // swap ele at mid and high
+                    int temp = nums[mid];
+                    nums[mid] = nums[high];
+                    nums[high] = temp;
+                    high--;
+                    break;
+                }
+            }
+        }
+    }
 }
