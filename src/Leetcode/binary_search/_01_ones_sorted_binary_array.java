@@ -1,4 +1,4 @@
-package binary_search;
+package Leetcode.binary_search;
 
 public class _01_ones_sorted_binary_array {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Arrays;
+package Leetcode.Arrays;
 
 public class _08_BestTime_to_Buy_and_SellStock {
     public static void main(String[] args) {

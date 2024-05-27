@@ -1,4 +1,4 @@
-package binary_search;
+package Leetcode.binary_search;
 
 public class _05_Koko_Eating_Bananas {
     public static void main(String[] args) {

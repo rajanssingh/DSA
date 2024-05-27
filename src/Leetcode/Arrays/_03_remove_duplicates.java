@@ -1,4 +1,4 @@
-package Arrays;
+package Leetcode.Arrays;
 
 public class _03_remove_duplicates {
     public static void main(String[] args) {

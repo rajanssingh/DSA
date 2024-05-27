@@ -1,4 +1,4 @@
-package Arrays;
+package Leetcode.Arrays;
 
 public class _05_First_LastPosition_Sorted_Array {
     public static void main(String[] args) {

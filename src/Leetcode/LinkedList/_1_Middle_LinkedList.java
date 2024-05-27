@@ -1,6 +1,4 @@
-package LinkedList;
-
-import java.util.LinkedList;
+package Leetcode.LinkedList;
 
 public class _1_Middle_LinkedList {
 
