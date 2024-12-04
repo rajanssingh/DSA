@@ -1,3 +1,5 @@
+package EOPINJ;
+
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
@@ -7,7 +9,7 @@ import java.util.stream.LongStream;
  * This class contains all problems related to primitive types in Java.
  * Problems are ranked according to importance.
  */
-public class PrimitiveTypes {
+public class _01_PrimitiveTypes {
 
     static int[] parityCached = new int[(int) Math.pow(2, 16)];
 
